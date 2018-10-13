@@ -24,3 +24,7 @@
 *.xml
 
 *.png
+
+.Rhistory
+
+.RData
